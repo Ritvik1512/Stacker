@@ -2,15 +2,15 @@
 
 <p align="center">
 
-Yo! You a developer? You need stacker. Period. <br />
+Yo! You a developer? You need stacker. Period. <br/>
 
-<b>Stacker</b> lives and works in your heart, I mean, your command line. <br />
+<b>Stacker</b> lives and works in your heart, I mean, your command line. <br/> </p>
 
 ***
 
 ## Features (aka Dope Shit)
 
-+ Written in Python. <3
++ Written in Python.
 + Allows a seamless experience directly from Command line. Even allows, integrated error reporting and searching on SO
 + All you Apple and Linus Trovaldis fans, this works on Mac and Linux.
 
@@ -38,7 +38,6 @@ Hey, depending on your environment, you may need to `sudo python setup.py instal
 
 We are gonna set an alias, `stacker`, for stacker_arc.py's functionality, for ease of access.
 
-<p align="center"><img src="http://i.imgur.com/Y9hpErQ.gif"></p>
 
 ### CLI arguments
 + `-exec`: `--executable`: Searches by the errors thrown by running an executable.

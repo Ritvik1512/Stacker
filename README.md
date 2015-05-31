@@ -1,5 +1,6 @@
 # Stacker!
 
+<b> I'm not at all certain about the working of this thing, as this was developed at 3 in morning and might be full of crappy code, proceed at your own risk. </b>
 <p align="center">
 
 Yo! You a developer? You need stacker. Period. <br/>
@@ -16,15 +17,7 @@ Yo! You a developer? You need stacker. Period. <br/>
 
 ## Installation
 
-There are two ways to install stacker! 
-
-**1. PyPI/pip**
-
-    $ pip install so-stacker
-
-Hey, depending on your environment, you may need to `sudo pip install so-stacker`.
-
-**2. Build from this repo**
+** Build from this repo**
 
 Clone the repository, then use setup.py to install the package.
 

@@ -13,7 +13,7 @@ Yo! You a developer? You need stacker. Period. <br/>
 ## Features (aka Dope Shit)
 
 + Written in Python.
-+ Allows a seamless experience directly from Command line. Even allows, integrated error reporting and searching on SO
++ Allows a seamless experience directly from Command line. Even allows, integrated error reporting and searching on SO and Wikipedia!
 + All you Apple and Linus Trovaldis fans, this works on Mac and Linux.
 
 ## Installation
